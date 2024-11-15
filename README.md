@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# **Favorite Series: *Lucifer***
+
+*Lucifer* is a popular series that follows Lucifer Morningstar, the Devil, who abandons Hell to run a nightclub in Los Angeles and assist the LAPD in solving crimes. Intrigued by humanity, he partners with Detective Chloe Decker, whose presence makes him strangely vulnerable. As they solve cases, Lucifer confronts his complex feelings, his family issues with angels and demons, and the question of redemption. The show masterfully combines crime, supernatural elements, and humor, with themes of identity, love, and redemption. With witty dialogue and character growth, *Lucifer* offers a fresh and entertaining twist on the classic figure of the Devil.
